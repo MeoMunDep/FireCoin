@@ -1,0 +1,2 @@
+# FireCoin
+FireCoin - AirDrop Script
