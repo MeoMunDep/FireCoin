@@ -40,11 +40,14 @@ Download Node.js and npm here: [Download Link](https://t.me/KeoAirDropFreeNe/257
 
 ```json
 {
+  "limit": 100,
+  "countdown": 30,
+  "country_time": "en-US",
   "upgradeBoosts": true,
-  "limit": 5, //number of accounts run in a row
-  "countdown": 300, //time to restarts all the accounts - count by seconds
-  "country_time": "vi-VN" //timestamp base on the country
+  "delayEachAccount": [1, 81],
+  "referralCode": "r_6713068747_3161"
 }
+
 ```
 
 ### 2. `datas.txt` 🗂️ - Get it from here >>> [Link](https://t.me/KeoAirDropFreeNe/257/6879)
