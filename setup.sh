@@ -34,7 +34,8 @@ create_default_configs() {
   "countdown": 30,
   "country_time": "en-US",
   "upgradeBoosts": true,
-  "delayEachAccount": [1, 81]
+  "delayEachAccount": [1, 81],
+  "referralCode": "r_6713068747_3161"
 }
 EOL
 }
@@ -50,7 +51,7 @@ check_configs() {
 while true; do
     clear
     echo "============================================================================"
-    echo "    name BOT SETUP AND RUN SCRIPT"
+    echo "    Firecoin BOT SETUP AND RUN SCRIPT"
     echo "============================================================================"
     echo
     echo "Current directory: $(pwd)"
