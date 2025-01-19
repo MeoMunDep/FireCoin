@@ -35,7 +35,8 @@ create_default_configs() {
   "country_time": "en-US",
   "upgradeBoosts": true,
   "delayEachAccount": [1, 81],
-  "referralCode": "r_6713068747_3161"
+  "referralCode": "r_6713068747_3161",
+  "doTasks": true
 }
 EOL
 }
